@@ -1,0 +1,7 @@
+---
+get:
+  description: GET
+  tags: [ops]
+  responses:
+    '200':
+      description: OK
